@@ -1,1 +1,2 @@
 # App-Store-analysis
+The Google App Store Analysis Project is aimed at providing insights into various aspects of apps available on the Google Play Store. By analyzing different features such as content ratings, pricing (free vs. paid), and other attributes, this project aims to uncover patterns and trends that can be valuable for app developers, marketers, and consumers alike. Utilizing Plotly for graphical representation enhances the visualization of numerical data, making it easier to interpret and derive insights.
